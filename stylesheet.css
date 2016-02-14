@@ -1,6 +1,18 @@
 stylesheet.css
+
+* {
+	background-color: #FAEBD7;
+	font-family: Consolas;
+}
+
+#topBar {
+	color: #AFEEEE;
+	height: 75px;
+	width: 1000px;
+
+}
+
 h3 {
 	font-size: 50px;
-	font-family: Existence Light; 
-	color: #1a1a1a;
+	color: #1A1A1A;
 }
