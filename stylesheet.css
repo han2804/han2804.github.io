@@ -1,17 +1,30 @@
 * {
-	background-color: #FAEBD7;
-	font-family: Courier;
+	background-color: #FFFFFF;
+	font-family: Arial;
 	margin: 0;
 	padding: 0;
 }
 
 #topBar {
-	background-color: #AFEEEE;
-	height: 75px;
+	height: 50px;
 	width: 100%;
 }
 
-h3 {
-	font-size: 50px;
+#tbdiv {
+	height 5px; 
+	width: 100%;
+}
+
+#name {
+	font-size: 30px;
+	font-weight: bold;
+	color: #191970;
+}
+
+#menu1 {
+	font-size: 30px;
 	color: #1A1A1A;
 }
+
+
+
