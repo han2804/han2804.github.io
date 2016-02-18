@@ -37,6 +37,9 @@
 
 #center_circle {
 	margin: auto;
+	margin-top: 60px;
+	border-radius: 100%;
+	color: #191970;
 
 }
 
