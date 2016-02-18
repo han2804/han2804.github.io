@@ -24,7 +24,17 @@
 #menu1 {
 	font-size: 30px;
 	color: #1A1A1A;
+	float: right
 }
 
+#menu2 {
+	font-size: 30px;
+	color: #1A1A1A;
+	float: right;
+}
 
+#center_circle {
+	margin: auto;
+
+}
 
