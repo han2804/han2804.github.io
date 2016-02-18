@@ -1,14 +1,15 @@
-stylesheet.css
-
 * {
 	background-color: #FAEBD7;
 	font-family: Courier;
+	margin: 0;
+	padding: 0;
 }
 
 #topBar {
-	color: #AFEEEE;
+	background-color: #AFEEEE;
 	height: 75px;
-	width: 1000px;
+	width: 100%;
+	padding: 5%;
 
 }
 
