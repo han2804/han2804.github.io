@@ -45,6 +45,15 @@
 
 }
 
+#left_circle {
+	width: 250px;
+	height: 250px;
+	float: right;
+	margin-top: 100px;
+	border-radius: 100%;
+	background-color: #FF6A6A;
+}
+
 #center_title {
 	width: 250px;
 	height: 60px;
@@ -62,14 +71,6 @@
 
 }
 
-#left_circle {
-	width: 250px;
-	height: 250px;
-	float: right;
-	margin-top: 100px;
-	border-radius: 100%;
-	background-color: #FF6A6A;
-}
 
 a {
 	text-align: center;
