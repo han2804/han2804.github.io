@@ -50,7 +50,7 @@
 	margin-top: 100px;
 	border-radius: 100%;
 	background-color: #FF6A6A;
-	float: left;
+	position: relative;
 }
 
 
