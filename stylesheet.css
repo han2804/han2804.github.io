@@ -34,16 +34,6 @@
 
 }
 
-#left_circle {
-	width: 250px;
-	height: 250px;
-	margin-top: 100px;
-	margin-left: 80px;
-	border-radius: 100%;
-	background-color: #FF6A6A;
-	float: left;
-}
-
 #center_circle {
 	width: 250px;
 	height: 250px;
@@ -51,7 +41,7 @@
 	margin-left: 340px;
 	border-radius: 100%;
 	background-color: #191970;
-	float: left;
+	margin: auto;
 }
 
  #center_title {
